@@ -42,4 +42,4 @@ The data and files that we have generated from official sources are freely avail
 The Economist, 2020. Tracking covid-19 excess deaths across countries. [online] The Economist. Available at: <[https://www.economist.com/graphic-detail/coronavirus-excess-deaths-estimates](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-tracker)> [Accessed ---].
   
 (See also our [citation file](https://github.com/TheEconomist/covid-19-excess-deaths-tracker/blob/main/citation.cff))
-
+galgotias university
